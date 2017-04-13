@@ -4,9 +4,9 @@ Scripts for rebuilding the NEH Impact database based on updated data on the NEH 
 
 ### Requires
 
-bash 
-wget
-Python 3
+bash   
+wget  
+Python 3  
 
 ### Usage
 
